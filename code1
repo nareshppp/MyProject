@@ -1,0 +1,8 @@
+import java.insert*
+import java.delete*
+
+
+public void main()
+{
+system.Out>println("Hello")
+}
